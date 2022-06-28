@@ -4,7 +4,7 @@ variable "cluster-name" {
 }
 
 variable "AWS_REGION" {
-  default = "us-east-1"
+  default = "us-east-2"
 }
 
 variable "AWS_ACCESS_KEY" {
